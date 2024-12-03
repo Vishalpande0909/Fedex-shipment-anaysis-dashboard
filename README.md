@@ -2,7 +2,7 @@
 # FedEx Shipment Power BI Dashboard
 
 This project is a **FedEx Shipment Power BI Dashboard**, designed to provide an interactive and visually appealing interface for tracking, analyzing, and managing FedEx shipments. It leverages the power of Power BI to create a dynamic dashboard that displays key metrics and insights on shipment statuses, delivery times, and logistics performance.
-![fedex dashboard]()
+![fedex dashboard](https://github.com/Vishalpande0909/Fedex-shipment-anaysis-dashboard/blob/main/fedex%20dashboard.PNG?raw=true)
 ## Features:
 - **Interactive Dashboard**: View and interact with various visualizations, including shipment status, delivery progress, shipment volume, and performance trends.
 - **Comprehensive Analytics**: Track shipments by status, location, delivery times, exceptions, and more, with customizable filtering options for detailed insights.
